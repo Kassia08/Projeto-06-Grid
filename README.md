@@ -1,7 +1,7 @@
 <h1 align="center"> Galaxies </h1>
 
 <p align="center">
-Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 03, mais especificamentes as técnicas sobre Grid. <br/>
+Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 03, mais especificamente, as técnicas sobre Grid. <br/>
 
 <img alt="Galaxies" src="./imagens/Projeto Galaxies.png" width="100%">
 
