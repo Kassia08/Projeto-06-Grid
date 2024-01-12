@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-AAs maiores Galáxias e curiosidades sobre elas.
+As maiores Galáxias e curiosidades sobre elas.
 
 ## 🔖 Layout
 
